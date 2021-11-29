@@ -15,7 +15,7 @@ trim_trailing_whitespace = true
 [*.toml]
 indent_size = 4
 
-[*.{css,html,js,json,less,sass,scss,yaml,yml}]
+[*.{css,html,js,json,jsonnet,less,sass,scss,yaml,yml}]
 indent_size = 2
 
 [*.{tf,tfvars}]
